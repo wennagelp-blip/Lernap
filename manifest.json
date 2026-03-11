@@ -2,7 +2,7 @@
   "name": "StudyAI",
   "short_name": "StudyAI",
   "description": "KI-gestütztes Lernen mit Karteikarten",
-  "start_url": "/",
+  "start_url": "/Lernap/index.html",
   "display": "standalone",
   "background_color": "#0a0a0f",
   "theme_color": "#0f0f14",
